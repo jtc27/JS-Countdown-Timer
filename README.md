@@ -19,6 +19,5 @@ To practice JS, I have decided to make some projects and focus on improving my s
 |       | Tool                                                               | Description                                                                  |
 | :---: | ------------------------------------------------------------------ | ---------------------------------------------------------------------- |
 | <img src="https://emmet.io/-/4076541266/i/logo.svg" height="auto" width="60"> | [https://emmet.io/](https://emmet.io/) | Emmet is a plugin for many popular text editors which greatly improves HTML & CSS workflow      
-| :---: | ------------------------------------------------------------------ | ---------------------------------------------------------------------- |
 | <img src="https://emmet.io/-/4076541266/i/logo.svg" height="auto" width="60"> | [https://emmet.io/](https://emmet.io/) | Emmet is a plugin for many popular text editors which greatly improves HTML & CSS workflow      
 
