@@ -1,6 +1,6 @@
 ## JS-Countdown-Timer
 
-This is a simple JS countdown timer.
+This is a simple JS countdown timer.  The time is set at 20 minutes
 
 ## Purpose
 
