@@ -8,7 +8,7 @@ To practice JS, I have decided to make some projects and focus on improving my s
 
 ## What I learned
 
-- **Emmet.**  It's a text-editor plugin which greatly improves HTML and CSS workflow.  When I made `index.html` and hit the ! key, Emmet generates the HTML structure.  After seeing this, I was sold!
+- **Emmet.**  It's a text-editor plugin which greatly improves HTML and CSS workflow.  When I made `index.html` and hit the ! key, Emmet generated the HTML structure.  After seeing this, I was sold!
 
 <img src = https://miro.medium.com/max/764/1*wgJno5JeA8C6HqiMUd7Uig.png height="auto" width="450">
 
